@@ -18,3 +18,14 @@ Critically analyze the article from Arxiv [On the Societal Impact of Open Founda
 Extract and summarize 10 crucial insights about Training Data from Chapter 4 of Chip Huyen's book, "Designing Machine Learning Systems."
 
 [My 10 key points (on Medium)](https://jv-venceslau-c.medium.com/10-key-points-of-chapter-4-of-chip-huyens-book-designing-machine-learning-systems-ea4086d8bc7f)
+
+## Task 03:
+### Part 1
+Carry out an in-depth analysis of chapter 0 (zero) of the book "The Principles of Deep Learning Theory" available at https://arxiv.org/pdf/2106.10165.pdf.
+
+[My review (on Medium)](https://jv-venceslau-c.medium.com/analysis-of-chapter-0-of-the-book-the-principles-of-deep-learning-theory-7989fcfc66f2)
+
+### Part 2
+Prepare a detailed summary of Chapter 5 of the Book "Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications, Chip Huyen"
+
+[My summary (on Medium)](https://jv-venceslau-c.medium.com/feature-engineering-fundamentals-and-best-practices-983dac2f50fe)
